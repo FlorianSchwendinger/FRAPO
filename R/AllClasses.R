@@ -1,7 +1,7 @@
 setOldClass("mts")
 setOldClass("ts")
-setOldClass("xts")
-setOldClass("zoo")
+# setOldClass("xts")
+# setOldClass("zoo")
 ##
 ## Class definition for portfolio solution
 ##

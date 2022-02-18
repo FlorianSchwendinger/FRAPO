@@ -1,5 +1,8 @@
 import(methods, cccp, Rglpk, timeSeries)
 
+importFrom("xts", "xts")
+importFrom("quantmod", "is.quantmod")
+
 importFrom("graphics", "abline")
 importFrom("stats", "cov", "cov2cor", "embed", "na.fail")
 importFrom("utils", "combn", "file.edit")
